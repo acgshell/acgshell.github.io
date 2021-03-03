@@ -1,2 +1,2 @@
-ShambaLand:  Smart Data Ad Organic Food Store
+ShambaLand:  Smart Data And Organic Food Store
 This is only a demo
